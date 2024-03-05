@@ -161,3 +161,6 @@ cython_debug/
 
 # secret py
 secret.py
+
+# do not include data folders
+data/
